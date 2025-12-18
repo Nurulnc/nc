@@ -5,7 +5,7 @@ import requests
 import pyotp
 
 # আপনার বোট টোকেন এখানে বসান
-API_TOKEN = '7308877263:AAEuz6pumYmjbeMyJ76GBYGJVvnDLXiubY4'
+API_TOKEN = '8533162186:AAH6mixkp1rjrm3h8jcfX6oLb-WpQzhWTPA'
 bot = telebot.TeleBot(API_TOKEN)
 
 # ১০০+ USA নামের লিস্ট (সংক্ষিপ্ত করে দেখানো হলো, আপনি চাইলে আরও বাড়াতে পারেন)
